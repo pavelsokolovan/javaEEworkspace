@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" hostname="home-pc" id="Oracle WebLogic Server 12c R2 (12.2.1) at [home-pc]" name="Oracle WebLogic Server 12c R2 (12.2.1) at [home-pc]" runtime-id="Oracle WebLogic Server 12c R2 (12.2.1) at home-ps" server-type="com.bea.weblogic1221.server" server-type-id="com.bea.weblogic1221.server" start-timeout="480" stop-timeout="240" timestamp="1" weblogic_domain_path="" weblogic_host_name="home-pc" weblogic_is_remote="true" weblogic_port="7001" weblogic_use_bootprop="false" weblogic_use_config_xml="false"/>
+</servers>
