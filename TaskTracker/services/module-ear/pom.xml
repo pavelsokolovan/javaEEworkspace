@@ -40,5 +40,14 @@
       </plugin>
     </plugins>
   </build>
+  
+  <dependencies>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>module-ejb</artifactId>
+            <version>${project.version}</version>
+            <type>ejb</type>
+        </dependency>
+    </dependencies>
 
 </project>

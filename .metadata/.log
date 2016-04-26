@@ -7026,3 +7026,6 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2016-04-26 23:47:33.237
+!MESSAGE Stopped WebLogic Server Monitor [Oracle WebLogic Server 12c R2 (12.2.1) at [home-pc] @home-pc:7001, Version:12.2.1]
